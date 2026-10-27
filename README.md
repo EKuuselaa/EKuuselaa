@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm EKuuselaa 💾
 
-<!--
-**EKuuselaa/EKuuselaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who enjoys building practical products from frontend to backend.
+I'm also interested in cyber security and data analytics.
 
-Here are some ideas to get you started:
+## 📌 Pinned projects (short summaries)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ConsultWizard](https://github.com/EKuuselaa/ConsultWizard)** — A React + Vite consultant/team management app prototype with protected routes and PDF profile export.
+- **[vaasa-elainsuoja](https://github.com/EKuuselaa/vaasa-elainsuoja)** — A Dockerized animal adoption web app using a microservice-style architecture and REST APIs.
+- **[FiTorrent](https://github.com/EKuuselaa/FiTorrent)** — A minimal Python BitTorrent client that supports tracker communication, multi-peer downloads, and piece hash verification.
+- **[Yearify](https://github.com/EKuuselaa/Yearify)** — A vanilla JavaScript Spotify search app for finding songs by year or genre.
+- **[Expenses-for-you](https://github.com/EKuuselaa/Expenses-for-you)** — A React app project used to practice and build budgeting/expense-tracking workflows.
+- **[Captcha-speedrun](https://github.com/EKuuselaa/Captcha-speedrun)** — An experimentation project focused on CAPTCHA-related automation/speed challenges.
