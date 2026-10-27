@@ -1,7 +1,7 @@
 # Hi, I'm EKuuselaa 💾
 
 I'm a full-stack developer who enjoys building practical products from frontend to backend.
-I'm also interested in cyber security and data analytics.
+I'm also interested in cybersecurity and data analytics.
 
 ## 📌 Pinned projects (short summaries)
 
